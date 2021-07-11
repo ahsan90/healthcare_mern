@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://healthcaredb:healthcaredb@healthcaredb.mtvzb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
